@@ -1,0 +1,1 @@
+ork in the pre-git era was cloning the software or anything that the user wants a personal copy of. If I fork a document, let say this post only, I will have the same document on my account i.e. I will have a copy of this document. I can now use it, edit it modify it and if I want, I can send it back to the owner with some modification.
