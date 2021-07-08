@@ -1,0 +1,1 @@
+To understand this, let us go back to the era before 2008 i.e. the pre-git era (if that term even exists). The open-source community is in full demand and people are experimenting and inventing technologies and software, no one has imagined. These 
