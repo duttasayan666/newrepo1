@@ -6,7 +6,7 @@ I AM HUMANN
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+Thanks to all
     <name>
 
 # TECHNOLOGY COLOPHON
