@@ -8,4 +8,4 @@ Then came GitHub. GitHub, like every other open-source, had a concept of the for
 
 Blob object- Let's say you add three files to your commit.  After the commit is made, these three files are encrypted, compressed, and stored as objects called blobs. A hash algorithm called SHA - 1 is used on each blob to generate a hash identifier for each file.
 
-Tree object - These hash identifiers are getting put in a list called a tree, the second object type in the tree.  There is only one tree object per commit.
+Tree object - These hash identifiers are getting put in some list called a tree, the second object type in the tree.  There is only one tree object per commit.
