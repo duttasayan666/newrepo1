@@ -11,3 +11,5 @@ Blob object- Let's say you add three files to your commit.  After the commit is 
 Tree object - These hash identifiers are going to be put in a list called a tree, the second object type in the tree.  There is only one tree object per commit.
 
 Adding more lines for conflict
+
+The commit contains three types of objects which makes up the Git

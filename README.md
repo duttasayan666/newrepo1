@@ -17,6 +17,8 @@ Added copyright notice
 
 ##Please add here
 
+##ed like a tree.  It starts with a HEAD that points to the latest com
+
 ## Doing Rebasing
 
 ## Adding version for rebase
