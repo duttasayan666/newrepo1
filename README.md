@@ -1,5 +1,6 @@
 The current format involves a qualification phase, which takes place over the preceding three years,
 
+##For remote area
 
 The 21 World Cup tournaments have been won by eight national team
 
