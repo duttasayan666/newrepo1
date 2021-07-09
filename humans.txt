@@ -9,7 +9,7 @@ I AM HUMANN
 Thanks to all
     <name>
 
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY COLOPHON India Industries
 
     HTML5, CSS3
     jQuery, Modernizr

@@ -20,3 +20,5 @@ Added copyright notice
 ## Doing Rebasing
 
 ## Adding version for rebase
+
+##Working with git stash
